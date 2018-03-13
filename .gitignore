@@ -1,0 +1,14 @@
+.DS_Store
+.env.*
+
+node_modules
+coverage
+build
+
+.expo
+.vscode
+
+rn-cli-config-with-links.js
+
+ios
+android
