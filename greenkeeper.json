@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "rn-app/package.json",
+        "rn-component-library/package.json",
+        "rw-app/package.json"
+      ]
+    }
+  }
+}
