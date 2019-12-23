@@ -6,7 +6,7 @@
     "babel-preset-react-native-stage-0": "^1.0.1",
     "jest-react-native": "^18.0.0",
     "metro-bundler": "^0.22.1",
-    "react-test-renderer": "16.2.0"
+    "react-test-renderer": "16.12.0"
   },
   "scripts": {
     "start": "react-native start",
@@ -19,8 +19,8 @@
     "preset": "react-native"
   },
   "dependencies": {
-    "react": "16.2.0",
-    "react-native": "0.52.0",
+    "react": "16.12.0",
+    "react-native": "0.61.5",
     "rn-components-library": "*"
   }
 }
